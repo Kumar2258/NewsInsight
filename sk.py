@@ -1,1 +1,1 @@
-OPENAI_API_KEY="sk-proj-HmiyQUj6fha1CXzKNMFGT3BlbkFJoMyb0txBLF7bjnHNupxd"
+OPENAI_API_KEY="Your_openAI_key"
